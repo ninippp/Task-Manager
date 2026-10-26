@@ -1,0 +1,6 @@
+{
+  "name": "SynchroTask - Collaborative Task Workspace",
+  "description": "Personal task lists with real-time multi-user collaboration, live presence, shared workspaces, activity history, and smart filtering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
